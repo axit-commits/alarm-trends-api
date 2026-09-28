@@ -2,7 +2,7 @@
   "name": "alarm-trends-api",
   "version": "1.0.0",
   "description": "Google Trends API for Alarm Clock App",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js"
